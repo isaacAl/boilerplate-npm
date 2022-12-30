@@ -1,6 +1,6 @@
 {
-	"author": "Isaac Al-Abad",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Isaac Al-Abad",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
