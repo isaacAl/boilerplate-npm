@@ -1,8 +1,13 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Isaac Al-Abad",
+	"descritpion": "This is a boilerplate project I am using to learn and refresh myself with Back End Development and APIs using modern frameworks. The first lessons begin with managing packages with NPM.",
+	"keywords": [ "freecodecamp", "Back End Development", "APIs", "NPM", "Web Development" ],
+	"license": "Isaac Al-Abad",
+	"version": "1.1.0",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"@freecodecamp/example": "1.1.0"
 	},
 	"main": "server.js",
 	"scripts": {
